@@ -1,0 +1,10 @@
+<templateSet group="JavaScript">
+  <template name="angcrtl" value="module.exports = ['$scope', '$log', function ($scope, $log) {&#10;var vm = this;&#10;$END$&#10;&#10;// Call the controller's 'constructor' after setting up VM&#10;activate();&#10;&#10;///////////////////////////&#10;&#10;/**&#10;* &quot;Constructor&quot; - Executed when controller is started&#10;*/&#10;function activate() {&#10;$log.debug('Destroying $controllerName$');&#10;&#10;// Add any activation/setup logic here&#10;}&#10;&#10;/**&#10;* &quot;Deconstructor&quot; - Executed when controller is destroyed/removed from SCOPE/DOM&#10;*/&#10;$scope.$on('$destroy', function() {&#10;$log.debug('Destroying $controllerName$');&#10;&#10;// Add any cleanup/tear-down logic here&#10;});&#10;&#10;///////////////////////////&#10;&#10;// Put any additional methods here&#10;&#10;}];" description="Angular Controller default" toReformat="false" toShortenFQNames="true">
+    <variable name="controllerName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="JS_EXPRESSION" value="true" />
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
