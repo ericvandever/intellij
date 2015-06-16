@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'parsers'" />
-    <option name="defaultScopeName" value="Module 'parsers'" />
-    <option name="SEARCH_SCOPE" value="Module 'parsers'" />
+    <option name="customScope" value="Directory '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper'" />
+    <option name="defaultScopeName" value="Directory '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper'" />
   </component>
 </application>
