@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Module 'models-database'" />
-    <option name="defaultScopeName" value="Module 'models-database'" />
-    <option name="SEARCH_SCOPE" value="Module 'models-database'" />
+    <option name="customScope" value="Module 'parsers'" />
+    <option name="defaultScopeName" value="Module 'parsers'" />
+    <option name="SEARCH_SCOPE" value="Module 'parsers'" />
   </component>
 </application>
