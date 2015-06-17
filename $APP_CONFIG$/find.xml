@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper'" />
-    <option name="defaultScopeName" value="Directory '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper'" />
-    <option name="SEARCH_SCOPE" value="Directory '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper'" />
+    <option name="customScope" value="File '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper/JuniperRoutingOptionsParser.java'" />
+    <option name="defaultScopeName" value="File '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper/JuniperRoutingOptionsParser.java'" />
+    <option name="SEARCH_SCOPE" value="File '/Volumes/workspace/SNAP/development/code/parsers/src/main/java/com/bpt/parsers/vendor/juniper/JuniperRoutingOptionsParser.java'" />
   </component>
 </application>
