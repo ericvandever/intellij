@@ -157,6 +157,9 @@
             <id>Android Lint</id>
           </State>
           <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
             <id>Code maturity issuesJava</id>
           </State>
           <State>
@@ -189,7 +192,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>PublicMethodWithoutLogging</id>
+            <id>PublicConstructorInNonPublicClass</id>
           </State>
         </selected-state>
       </profile-state>
