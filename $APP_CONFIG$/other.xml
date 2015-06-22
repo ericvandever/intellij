@@ -183,10 +183,13 @@
           <State>
             <id>JavaScript</id>
           </State>
+          <State>
+            <id>Logging issuesJava</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>Less</id>
+            <id>PublicMethodWithoutLogging</id>
           </State>
         </selected-state>
       </profile-state>
