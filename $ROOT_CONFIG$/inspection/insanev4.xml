@@ -249,7 +249,6 @@
   </inspection_tool>
   <inspection_tool class="ConstantOnLHSOfComparison" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantOnLHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
-  <inspection_tool class="ConstantOnRHSOfComparisonJS" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstantValueVariableUse" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="ConstructorCount" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoreDeprecatedConstructors" value="false" />
