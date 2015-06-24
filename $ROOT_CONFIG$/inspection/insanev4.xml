@@ -1086,6 +1086,7 @@
   <inspection_tool class="StaticFieldReferenceOnSubclass" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticGuardedByInstance" enabled="true" level="WARNING" enabled_by_default="true" />
   <inspection_tool class="StaticImport" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="ignoreSingleFieldImports" value="true" />
     <option name="allowedClasses">
       <set>
         <option value="org.testng.Assert" />

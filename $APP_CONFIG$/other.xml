@@ -166,6 +166,9 @@
             <id>GeneralJavaScript</id>
           </State>
           <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
             <id>J2ME issuesJava</id>
           </State>
           <State>
@@ -186,7 +189,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>JSValidateTypes</id>
+            <id>UnnecessaryConstantArrayCreationExpression</id>
           </State>
         </selected-state>
       </profile-state>
