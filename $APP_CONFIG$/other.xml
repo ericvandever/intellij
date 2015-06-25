@@ -166,6 +166,9 @@
             <id>GeneralJavaScript</id>
           </State>
           <State>
+            <id>Hibernate Issues</id>
+          </State>
+          <State>
             <id>ImportsJava</id>
           </State>
           <State>
@@ -189,7 +192,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>UnnecessaryConstantArrayCreationExpression</id>
+            <id>HibernateMappingDatasourceDomInspection</id>
           </State>
         </selected-state>
       </profile-state>
