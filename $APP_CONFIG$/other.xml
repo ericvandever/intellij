@@ -189,10 +189,13 @@
           <State>
             <id>Probable bugsJava</id>
           </State>
+          <State>
+            <id>Visibility issuesJava</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>HibernateMappingDatasourceDomInspection</id>
+            <id>MethodOverridesPackageLocalMethod</id>
           </State>
         </selected-state>
       </profile-state>
