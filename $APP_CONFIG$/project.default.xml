@@ -104,7 +104,7 @@
         <property name="options.lastSelected" value="org.jetbrains.plugins.scala.compiler.ScalaApplicationSettingsForm" />
         <property name="options.splitter.main.proportions" value="0.3" />
         <property name="options.splitter.details.proportions" value="0.2" />
-        <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Java" />
+        <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Java" />
         <property name="settings.editor.splitter.proportion" value="0.2" />
         <property name="last_opened_file_path" value="/Applications/VisualVM.app/Contents/MacOS/visualvm" />
       </component>
