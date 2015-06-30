@@ -169,6 +169,9 @@
             <id>Code style issuesJavaScript</id>
           </State>
           <State>
+            <id>Control flow issuesJava</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
@@ -225,7 +228,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>MethodOverridesPackageLocalMethod</id>
+            <id>ConditionalExpression</id>
           </State>
         </selected-state>
       </profile-state>
