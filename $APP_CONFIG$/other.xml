@@ -172,6 +172,9 @@
             <id>Control flow issuesJava</id>
           </State>
           <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
@@ -202,6 +205,9 @@
             <id>Javadoc issuesJava</id>
           </State>
           <State>
+            <id>Node.jsJavaScript</id>
+          </State>
+          <State>
             <id>Numeric issuesJava</id>
           </State>
           <State>
@@ -224,6 +230,9 @@
           </State>
           <State>
             <id>Visibility issuesJava</id>
+          </State>
+          <State>
+            <id>XPath</id>
           </State>
         </expanded-state>
         <selected-state>
