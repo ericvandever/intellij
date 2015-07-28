@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="tmpCisco" />
-    <option name="defaultScopeName" value="tmpCisco" />
-    <option name="SEARCH_SCOPE" value="tmpCisco" />
+    <option name="customScope" value="Module 'processing'" />
+    <option name="defaultScopeName" value="Module 'processing'" />
+    <option name="SEARCH_SCOPE" value="Module 'processing'" />
   </component>
 </application>
