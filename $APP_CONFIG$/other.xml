@@ -37,12 +37,15 @@
             <id>Plugin DevKit</id>
           </State>
           <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
             <id>XPath</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>UNCHECKED_WARNING</id>
+            <id>SuspiciousMethodCalls</id>
           </State>
         </selected-state>
       </profile-state>
